@@ -6,7 +6,4 @@ Identificar la calificación crediticia (Credit_Score), de un cliente y califica
 
 **Referencias y Fuente de datos https://www.kaggle.com/datasets/parisrohan/credit-score-classification**
 
-Equipo:
-Maximiliano Romero
-Rodrigo Hidalgo
-Raul Garcia
+Equipo: Maximiliano Romero | Rodrigo Hidalgo | Raul Garcia
